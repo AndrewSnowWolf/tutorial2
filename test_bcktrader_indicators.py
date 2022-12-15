@@ -57,4 +57,7 @@ if __name__ == '__main__':
 #cerebro run
     cerebro.run()
 #cerebro plot
-    cerebro.plot()
+    cerebro.plot(iplot=False,
+                numfigs=2,
+                style='candel',
+                grid=False)
