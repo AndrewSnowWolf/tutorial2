@@ -6,3 +6,4 @@ YahooFinance               https://datatechlog.com/how-to-retrieve-stock-price-a
 AlphaAvatage data          https://www.alphavantage.co/documentation/
 Investing.com              https://jp.investing.com/indices/japan-ni225-components
 Myindex                    https://myindex.jp/
+【Python】 経済指標・財務諸表データ取得完全攻略    https://oeconomicus.jp/2021/05/python-economicdata/
