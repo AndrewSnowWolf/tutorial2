@@ -8,3 +8,4 @@ Investing.com              https://jp.investing.com/indices/japan-ni225-componen
 Myindex                    https://myindex.jp/
 【Python】 経済指標・財務諸表データ取得完全攻略    https://oeconomicus.jp/2021/05/python-economicdata/
 ジェイの投資ライフ          https://indepth-markets.com/page/28/
+財務データを取得する        https://www.morningstar.com/
