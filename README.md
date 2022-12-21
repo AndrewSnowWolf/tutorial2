@@ -9,3 +9,4 @@ Myindex                    https://myindex.jp/
 【Python】 経済指標・財務諸表データ取得完全攻略    https://oeconomicus.jp/2021/05/python-economicdata/
 ジェイの投資ライフ          https://indepth-markets.com/page/28/
 財務データを取得する        https://www.morningstar.com/
+知的好奇心と探求心で、いろんな企業の分析しながら「ビジネス」と「投資」で役立つブログが書きたい！そんな思いでブログを書いてます  https://hipelog.com/
