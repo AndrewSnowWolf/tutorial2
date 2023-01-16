@@ -11,3 +11,4 @@ Myindex                    https://myindex.jp/
 財務データを取得する        https://www.morningstar.com/
 知的好奇心と探求心で、いろんな企業の分析しながら「ビジネス」と「投資」で役立つブログが書きたい！そんな思いでブログを書いてます  https://hipelog.com/
 https://nehori.com/nikki/category/%e6%8a%95%e8%b3%87/
+米国株をメインターゲットに，Pythonによるテクニカル分析についての記事も書いています．　　https://optrip.xyz/
